@@ -1,0 +1,13 @@
+C:\Users\juanm\source\repos\Tienda\Tienda\bin\Debug\Tienda.exe.config
+C:\Users\juanm\source\repos\Tienda\Tienda\bin\Debug\Tienda.exe
+C:\Users\juanm\source\repos\Tienda\Tienda\bin\Debug\Tienda.pdb
+C:\Users\juanm\source\repos\Tienda\Tienda\obj\Debug\Tienda.csproj.AssemblyReference.cache
+C:\Users\juanm\source\repos\Tienda\Tienda\obj\Debug\Tienda.csproj.SuggestedBindingRedirects.cache
+C:\Users\juanm\source\repos\Tienda\Tienda\obj\Debug\Tienda.Form1.resources
+C:\Users\juanm\source\repos\Tienda\Tienda\obj\Debug\Tienda.Properties.Resources.resources
+C:\Users\juanm\source\repos\Tienda\Tienda\obj\Debug\Tienda.csproj.GenerateResource.cache
+C:\Users\juanm\source\repos\Tienda\Tienda\obj\Debug\Tienda.csproj.CoreCompileInputs.cache
+C:\Users\juanm\source\repos\Tienda\Tienda\obj\Debug\Tienda.exe
+C:\Users\juanm\source\repos\Tienda\Tienda\obj\Debug\Tienda.pdb
+C:\Users\juanm\source\repos\Tienda\Tienda\obj\Debug\Tienda.FormProducto.resources
+C:\Users\juanm\source\repos\Tienda\Tienda\obj\Debug\Tienda.FormVentas.resources
